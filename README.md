@@ -17,7 +17,6 @@ CS50x – Harvard University (Sep 2025 – Dec 2025)
 
 <h2>Tech Stack</h2> 
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/> 
-<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5"/> 
 <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3"/> 
